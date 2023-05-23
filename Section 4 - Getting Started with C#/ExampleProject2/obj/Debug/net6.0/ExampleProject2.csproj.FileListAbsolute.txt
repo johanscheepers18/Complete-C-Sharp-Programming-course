@@ -1,0 +1,15 @@
+C:\Users\johan\source\repos\ExampleProject2\bin\Debug\net6.0\ExampleProject2.exe
+C:\Users\johan\source\repos\ExampleProject2\bin\Debug\net6.0\ExampleProject2.deps.json
+C:\Users\johan\source\repos\ExampleProject2\bin\Debug\net6.0\ExampleProject2.runtimeconfig.json
+C:\Users\johan\source\repos\ExampleProject2\bin\Debug\net6.0\ExampleProject2.dll
+C:\Users\johan\source\repos\ExampleProject2\bin\Debug\net6.0\ExampleProject2.pdb
+C:\Users\johan\source\repos\ExampleProject2\obj\Debug\net6.0\ExampleProject2.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\ExampleProject2\obj\Debug\net6.0\ExampleProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\ExampleProject2\obj\Debug\net6.0\ExampleProject2.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\ExampleProject2\obj\Debug\net6.0\ExampleProject2.AssemblyInfo.cs
+C:\Users\johan\source\repos\ExampleProject2\obj\Debug\net6.0\ExampleProject2.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\ExampleProject2\obj\Debug\net6.0\ExampleProject2.dll
+C:\Users\johan\source\repos\ExampleProject2\obj\Debug\net6.0\refint\ExampleProject2.dll
+C:\Users\johan\source\repos\ExampleProject2\obj\Debug\net6.0\ExampleProject2.pdb
+C:\Users\johan\source\repos\ExampleProject2\obj\Debug\net6.0\ExampleProject2.genruntimeconfig.cache
+C:\Users\johan\source\repos\ExampleProject2\obj\Debug\net6.0\ref\ExampleProject2.dll
